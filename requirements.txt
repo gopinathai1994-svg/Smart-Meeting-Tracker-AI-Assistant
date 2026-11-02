@@ -5,3 +5,5 @@ langchain
 langchain-google-genai
 langgraph
 openai-whisper
+gunicorn
+python-dotenv
